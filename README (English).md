@@ -22,14 +22,15 @@ Once we have the TE(x) (effective rate in a specific period of time), if we chan
 The main aim of the Software is to make things easier when we, as investors, want to calculate a TNA without using a calculator or even if we don't have the resources to calculate the rates. So the main idea is to speed up the process. In parallel, this is a project to improve my Python skills as a newbie in the field.
 
 ## Observations about the program
-__The program was made in Spanish.
+*The program was made in Spanish.
 
-__I tried to prevent some kind of common errors from the users as typing errors and so. Even so, I couldn't fix problems in which the input must a number so if it types a letter   where a number must be, the program will close automatically.
+*I tried to prevent some kind of common errors from the users as typing errors and so. Even so, I couldn't fix problems in which the input must a number so if it types a letter   where a number must be, the program will close automatically.
 
-__There are some times in the program in which there is a second interest rate defined as TNAA. This rate is for discounted operations and has the same logic as the TNA but if     we want it to do the inverse operation. Instead of capitalized we are applying a discount operation. 
+*There are some times in the program in which there is a second interest rate defined as TNAA. This rate is for discounted operations and has the same logic as the TNA but if     we want it to do the inverse operation. Instead of capitalized we are applying a discount operation. 
 
-__The program is based 365 days a year. There are many ways to calculate the rates but I tried to keep it simple. 
+*The program is based 365 days a year. There are many ways to calculate the rates but I tried to keep it simple. 
 
 # Enjoy the program!
 Greetings
+
 _Orlando Tiziana Andrea
