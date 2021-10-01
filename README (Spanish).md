@@ -1,4 +1,4 @@
-Calculadora de TNA a TE
+# Calculadora de TNA a TE
 
 Para el lector: En resumen, el programa nos permite calcular dada una TNA (tasa nominal anual) a una TE (tasa efectiva). A modo de introducción: La TNA, en finanzas, esta asociada a una tasa de interes ofrecida por instituciones bancarias en las que se especifica un periodo de tiempo 'x' donde los pagos se realizarán. Por otro laod, la TE es la cantidad de interes que obtendremos efectivamente de la operacion realizada en el periodo x deseado. 
 
