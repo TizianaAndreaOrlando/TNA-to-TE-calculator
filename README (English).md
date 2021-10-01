@@ -11,8 +11,8 @@ The TNA is given by banking institutions and is very common, for instance, if we
 
 ## Hypothetical case study
 If we had a TNA (x) = 24%. Where x represents the period of time (suppose we have x = 30) at the end of the year, we will receive 24% for each monetary amount invested and for had being invested every 30 days for a time-lapse of a year. The main difference between a TE and a TNA, and I will talk about it in a second, is that the TNA is based on a simple interest concept, this means that the interest is not reinvested in each period.
-Now if we think about the TE we assume that the amount earned per period is reinvested, so the results between TNA and TE will be different and, therefore, the TE will always be greater than
-the TNA. TE concept is tied on a compound interest basis rather than simple interest as I already mentioned above.
+Now if we think about the TE we assume that the amount earned per period is reinvested, so the results between TNA and TE will be different and, therefore, the TEA (efective annual rate) will always be greater than the TNA. 
+Efective rates are tied on a compound interest basis rather than simple interest as I already mentioned above.
 
 ## How does the passage between effective interest rates work? 
 
