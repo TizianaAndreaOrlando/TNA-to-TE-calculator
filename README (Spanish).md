@@ -12,7 +12,7 @@ Supongamos que tenemos una TNA(x) = 24%. Donde x representa el perido de tiempo 
 
 ## ¿Como funciona el pasaje entre tasas efectivas?
 
-Una vez que tenemos la TE(x) (la tasa efectiva en un periodo especifico), si cambiamos el periodo vamos a tener, por supuesto, una tasa diferente en nuestra operacion. No es lo mismo una TE(30) que una TE(90) y la logica de esto, ademas de una cuestión meramente matematica, proviene de que en el caso del TE(30) la institución bancaria retiene nuestro dinero por un periodo de tiempo menor al de la TE(90) por lo que tambiene es razonable pensar que la TE(90) nos brindará un interes mayor al tener nuestro dinero un tiempo mayor inmobilizado en la operación teniendo nosotros como inversores menor liquidez durante ese periodo de tiempo. 
+Una vez que tenemos la TE(x) (la tasa efectiva en un periodo especifico), si cambiamos el periodo vamos a tener, por supuesto, una tasa diferente en nuestra operacion. No es lo mismo una TE(30) que una TE(90) y la logica de esto, ademas de una cuestión meramente matematica, proviene de que en el caso del TE(30) la institución bancaria retiene nuestro dinero por un periodo de tiempo menor al de la TE(90) por lo que tambien es razonable pensar que la TE(90) nos brindará un interes mayor al tener nuestro dinero un tiempo mayor inmobilizado en la operación teniendo nosotros como inversores menor liquidez durante ese periodo de tiempo. 
 
 ## ¿Por qué implemente este software?
 
