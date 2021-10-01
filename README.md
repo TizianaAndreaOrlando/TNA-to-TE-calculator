@@ -23,9 +23,13 @@ The main aim of the Software is to make things easier when we, as investors, wan
 
 ## Observations about the program
 __The program was made in Spanish.
+
 __I tried to prevent some kind of common errors from the users as typing errors and so. Even so, I couldn't fix problems in which the input must a number so if it types a letter   where a number must be, the program will close automatically.
+
 __There are some times in the program in which there is a second interest rate defined as TNAA. This rate is for discounted operations and has the same logic as the TNA but if     we want it to do the inverse operation. Instead of capitalized we are applying a discount operation. 
+
 __The program is based 365 days a year. There are many ways to calculate the rates but I tried to keep it simple. 
 
 # Enjoy the program!
+Greetings
 _Orlando Tiziana Andrea
