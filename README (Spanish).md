@@ -16,11 +16,11 @@ Una vez que tenemos la TE(x) (la tasa efectiva en un periodo especifico), si cam
 
 ## ¿Por qué implemente este software?
 
-Bueno, principalmente porque mi objetivo principal era hacer las cosas más sencillas en el día a día, es decir; Si no tengo lo recursos a mano y solamente estoy usando la computadora, me parecia mucho más practico usar el software que, en el caso de usar la calculadora, la misma no tiene programadas las formulas y podria cometer yo el error de realizar mal los calculos. Por otro lado, es un software que sirve para personas que no estan inmersas en el ambito financiero pero que aún así realizan actividades de bajo riesgo o conservadoras como lo son los palzos fijos.
-Como objetivo paralelo, quería mejorar mis habilidades en la programación (en este caso utilizando Python) para poder crecer en el ambito y poder practicar. 
+Principalmente porque mi objetivo inicial era hacer las cosas más sencillas en el día a día, es decir; Si no tengo lo recursos a mano y solamente estoy usando la computadora, me parecia mucho más practico usar el software que en el caso de una calculadora que no tiene programadas las formulas y en ese caso, podria cometer el error de realizar mal los calculos. Por otro lado, es un software que sirve para personas que no estan inmersas en el ambito financiero pero que aún así realizan este tipo de operaciones de inversióny quieren realizar los calculos.
+Como objetivo paralelo quería mejorar mis habilidades en la programación (en este caso utilizando Python) para poder crecer en el ambito y poder practicar. 
 
 ## Observaciones respecto del programa
-* El programa esta en Español
+* El programa esta en Español.
 
 * Trate de prevenir distintos tipos de errores por parte de los usuarios como lo son el error de tipeo pero problemas donde se debe de colocar un tipo de dato determinado (números por ejemplo) y se coloca otro tipo de dato distinto, provocará que el programa se cierre y se tenga que volver a ejecutar el mismo.
 
