@@ -1,14 +1,15 @@
 # Calculadora de TNA a TE
 
 Para el lector:
-El programa nos permite calcular dada una TNA (tasa nominal anual) una TE (tasa efectiva). A modo de introducción: La TNA, en finanzas, esta asociada a una tasa de interes ofrecida por instituciones bancarias en las que se especifica un periodo de tiempo 'x' donde los pagos se realizarán. Por otro lado, la TE es la cantidad de interes que obtendremos efectivamente de la operacion realizada en el periodo x deseado. 
+El programa nos permite calcular dada una TNA (tasa nominal anual) una TE (tasa efectiva). 
+A modo de introducción: La TNA es una tasa de interes ofrecida por instituciones bancarias en las que se especifica un periodo de tiempo 'x' donde se realizaran los pagos. Por otro lado, la TE es la cantidad de interes que obtendremos efectivamente de la operacion realizada en el periodo x deseado. Tenemos tambine lo que es la TEA (tasa efectiva anual) donde se refleja lo que efectivamente ganaremos en conceptos de interes en el periodo de un año.  
 
 ## ¿Donde puedo encontrar la TNA?
-Como mencioné recien, la misma es dada y utilizada por instituciones bancarias. Por ejepemplo, si nosostros como inversores queremos realizar una operación de plazo fijo. 
+A la hora de hacer operaciones financieras con instituciones bancarias. Por ejepemplo, si nosostros como inversores queremos realizar una operación de plazo fijo vamos a tener un prospecto (elaborado por el banco de elección) donde se reflejaran tanto la TNA la TEA entre otras cosas y los distintos porcentajes. 
 
 ## Caso hipotetico
 
-Supongamos que tenemos una TNA(x) = 24%. Donde x representa el perido de tiempo (supongamos x = 30 días), al finalizar el año, nosotros obtendremos una rentabilidad del 24% por cada unidad monetaria invertida y por haber invertido cada 30 días en un lapso de tiempo de un año (por esto es anual). La principal diferencia entre una TNA y una TE es que la TNA se basa en una operacion de interes simple y no compuesta donde no hay reinversión de los intereses en cada periodo. Ahora, si queremos hablar de una TE, asumimos que la cantidad ganada por periodo es reinvertida por lo que el resultado entre una TNA y una TE serán diferentes... La TEA (tasa efectiva anual) siempre será mayor que la TNA. Las tasas efectivas estan ligadas al concepto de interes compuesto en vez de interes simple como ya habia mencionado. 
+Supongamos que tenemos una TNA(x) = 24%. Donde x representa el perido de tiempo (supongamos x = 30 días). Al finalizar el año, nosotros obtendremos una rentabilidad del 24% por cada unidad monetaria invertida y por haber invertido cada 30 días en un lapso de tiempo de un año (por esto es anual). La principal diferencia entre una TNA y una TE es que la TNA se basa en una operacion de interes simple y no compuesta donde no hay reinversión de los intereses en cada periodo. Ahora si queremos hablar de una TE asumimos que la cantidad ganada por periodo es reinvertida por lo que el resultado entre una TNA y una TE serán diferentes... La TEA (tasa efectiva anual) siempre será mayor que la TNA. Las tasas efectivas estan ligadas al concepto de interes compuesto en vez de interes simple como ya habia mencionado. 
 
 ## ¿Como funciona el pasaje entre tasas efectivas?
 
