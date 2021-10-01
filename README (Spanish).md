@@ -8,7 +8,7 @@ Como mencioné recien, la misma es dada y utilizada por instituciones bancarias.
 
 ## Caso hipotetico
 
-Supongamos que tenemos una TNA(x) = 24%. Donde x representa el perido de tiempo (supongamos x = 30 días), al finalizar el año, nosotros obtendremos una rentabilidad del 24% por cada unidad monetaria invertida y por haber invertido cada 30 días en un lapso de tiempo de un año (por esto es anual). La principal diferencia entre una TNA y una TE es que la TNA se basa en una operacion de interes simple y no compuesta donde no hay reinversión de los intereses en cada periodo. Ahora, si queremos hablar de una TE, asumimos que la cantidad ganada por periodo es reinvertida por lo que el resultado entre una TNA y una TE serán diferentes... La TE siempre será mayor que la TNA. TE esta ligada al concepto de interes compuesto en vez de interes simple como ya habia mencionado. 
+Supongamos que tenemos una TNA(x) = 24%. Donde x representa el perido de tiempo (supongamos x = 30 días), al finalizar el año, nosotros obtendremos una rentabilidad del 24% por cada unidad monetaria invertida y por haber invertido cada 30 días en un lapso de tiempo de un año (por esto es anual). La principal diferencia entre una TNA y una TE es que la TNA se basa en una operacion de interes simple y no compuesta donde no hay reinversión de los intereses en cada periodo. Ahora, si queremos hablar de una TE, asumimos que la cantidad ganada por periodo es reinvertida por lo que el resultado entre una TNA y una TE serán diferentes... La TEA (tasa efectiva anual) siempre será mayor que la TNA. Las tasas efectivas estan ligadas al concepto de interes compuesto en vez de interes simple como ya habia mencionado. 
 
 ## ¿Como funciona el pasaje entre tasas efectivas?
 
