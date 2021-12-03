@@ -1,6 +1,6 @@
 # TNA to TE calculator
 
-To reader:
+To the reader:
 In summary, the program allows us to calculate from a given TNA (Annual Nominal Rate) to a TE (Effective Rate). 
 As a little introduction: the TNA in finance can be related to an interest rate offered by banking institutions in which is specified an 'x' period where the payments will be realized.
 On the other hand, the TE is the amount of interest we will actually obtain from the operation in the desired period x.
